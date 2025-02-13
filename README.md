@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Abdelrahman Hassan</h1>
 <h3 align="center">Machine Learning Engineer | NLP & Deep Learning Enthusiast</h3>
 
