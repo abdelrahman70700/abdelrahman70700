@@ -45,9 +45,6 @@ I'm a *Machine Learning Engineer* with experience in designing and developing AI
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
 </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-</a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
