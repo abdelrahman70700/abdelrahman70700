@@ -25,7 +25,7 @@ I'm a *Machine Learning Engineer* with experience in designing and developing AI
 <a href="https://github.com/abdelrahman70700" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
-<a href="[https://www.facebook.com/](https://www.facebook.com/profile.php?id=100006543548419)" target="blank">
+<a href="https://www.facebook.com/profile.php?id=100006543548419" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 </p>
