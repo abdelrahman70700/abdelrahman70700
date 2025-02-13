@@ -60,9 +60,9 @@ I'm a *Machine Learning Engineer* with experience in designing and developing AI
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahman70700&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrahman70700&show_icons=true&theme=radical" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman70700&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=abdelrahman70700&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
